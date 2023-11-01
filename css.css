@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(red,blue);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+.homeimg{
+    
+    margin-top: 5%;
+    
+}
+#order{
+    margin-left: 30%;
+    
+   
+}
+.ok{
+    margin: auto;
+}
